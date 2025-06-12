@@ -1,12 +1,12 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="https://your-image-link.com/banner.png" alt="Banner" />
+  <img src="[https://your-image-link.com/banner.png](https://unsplash.com/photos/black-and-white-penguin-toy-wX2L8L-fGeA)" alt="Banner" />
 </p>
 
 <h1 align="center">Hi there 👋, I'm Sikander Singh</h1>
 
 <p align="center">
-  <i>A passionate Web Developer | MERN Stack Learner | Open Source Enthusiast</i>
+  <i>Aspiring Web Developer | Learning MERN Stack | Interested in AI and Coding</i>
 </p>
 
 ---
@@ -23,7 +23,7 @@
 ### 🚀 Tech Stack
 
 <p>
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=fff&style=flat" />
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcdnlogo.com%2Flogo%2Freact_39944.html&psig=AOvVaw06QAFU_nOHtL2ZbLUDDs6c&ust=1749821883114000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCLix4s-A7I0DFQAAAAAdAAAAABAE" />
   <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=fff&style=flat" />
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat" />
   <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000&style=flat" />

@@ -55,7 +55,7 @@
 
 ### 📫 Contact Me
 
-- 📧 Email: [youremail@example.com](mailto:youremail@example.com)
+- 📧 Email: [sikandersingh1823@gmail.com](mailto:sikandersingh1823@gmail.com)
 - 💼 LinkedIn: [linkedin.com/in/sikander](https://linkedin.com/in/sikander)
 - 🌐 Portfolio: [sikander.vercel.app](https://sikander.vercel.app)
 

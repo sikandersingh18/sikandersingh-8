@@ -29,7 +29,7 @@
   <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000&style=flat" />
   <img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=fff&style=flat" />
   <img src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=fff&style=flat" />
-  <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=fff&style=flat" />
+  <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=lat" />
 </p>
 
 ---
